@@ -4,7 +4,7 @@ Este projeto demonstra o uso de **Sass** (Syntactically Awesome Style Sheets), u
 
 ##  Demonstração
 
-Veja o projeto rodando: [https://jakis19.github.io/Sass/](https://jakis19.github.io/Sass/)
+Veja o projeto rodando:https://jaquelinevieira-dev.github.io/Sass/
 
 ##  Estrutura do Projeto
 
@@ -20,7 +20,7 @@ Veja o projeto rodando: [https://jakis19.github.io/Sass/](https://jakis19.github
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/jakis19/Sass.git
+   git clone https://jaquelinevieira-dev.github.io/Sass/
    ```
 
 2. **Instale o Sass globalmente** (caso não tenha):
@@ -42,10 +42,6 @@ Veja o projeto rodando: [https://jakis19.github.io/Sass/](https://jakis19.github
 - **Extends** (placeholders) para componentes de alerta.
 - **Nestings** para organização dos estilos.
 
-## Mais informações
-
-- [Documentação oficial do Sass](https://sass-lang.com/documentation/)
-- [Guia rápido Sass em português](https://www.origamid.com/curso/sass/)
 
 ## Licença
 
